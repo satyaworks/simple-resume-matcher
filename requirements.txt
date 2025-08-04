@@ -4,3 +4,5 @@ faiss-cpu
 pandas
 numpy
 pdfplumber
+sqlalchemy
+psycopg2-binary
