@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+pdfplumber
+sqlalchemy
+psycopg2-binary
