@@ -1,8 +1,6 @@
 streamlit
 sentence-transformers
 faiss-cpu
+pdfplumber
 pandas
 numpy
-pdfplumber
-sqlalchemy
-psycopg2-binary
